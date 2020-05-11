@@ -29,9 +29,9 @@ To make use of the project, you must access to the repository notebooks and exec
 ## Analysis process inside the project
 ### Data cleaning and preprocessing
 In this first section an initial display of the relevant data and metrics is carried out as well as their cleaning for further steps.
-### Population segmentation with unsupervised leraning
+### Population segmentation with unsupervised learning
 Using a PCA model, the simplification of variables within the data set is carried out. Then, a Kmeans model performs unsupervised learning for the detection of sets within the population.
-### Mailout campaigns forecasting with supervised models
+### Mailout campaigns forecasting with supervised learning models
 Implementation of supervised models such as XGBoost, Catboost or LGBM for the forecasting of future company campaigns seeking to improve their performance, testing different types of data with which to train the models used.
 
 ## Results
