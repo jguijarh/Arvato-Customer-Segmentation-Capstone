@@ -1,5 +1,5 @@
-# Arvato Customer Segmentation Capstone
-## Arvato Customer Segmentation Capstone overview
+# Arvato Customer Segmentation Capstone Project
+## Arvato Customer Segmentation Capstone Project overview
 This repository contains the information corresponding to the project developed as Capstone Project for Machine Learning Engineer Nanodegree of the Udacity platform.
 
 In this project the analysis of the data provided by Udacity and Arvato is performed, as well as the implementation of unsupervised models to develop population segmentation in the data and finally the development of supervised models to predict future company campaigns and make them more efficient.
